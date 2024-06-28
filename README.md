@@ -1,3 +1,4 @@
+Link para o video do Youtube: https://youtu.be/shS9McokQl4
 Esse código em Dart e Flutter cria uma tela para adicionar receitas em um aplicativo móvel. Vamos explicar passo a passo o que cada parte faz:
 
 Codigo:
